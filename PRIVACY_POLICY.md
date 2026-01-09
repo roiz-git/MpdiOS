@@ -17,6 +17,25 @@ We do not:
 - Use advertising or ad tracking
 - Share any data with third parties
 
+## Accessibility Permission
+
+  Maestro requests Accessibility permission solely to enable global
+  keyboard shortcuts for music playback control. This allows you to
+  control your music (play/pause, skip tracks, adjust volume) from
+  any app without switching windows.
+
+  What this permission does:
+  • Enables system-wide keyboard shortcut detection
+  • Allows playback control regardless of which app is active
+
+  What this permission does NOT do:
+  • Does not read, record, or transmit any keystrokes
+  • Does not access any other applications or their data
+  • Does not collect any personal information
+
+  This permission is optional. If declined, all other app features
+  remain fully functional - only global shortcuts will be disabled.
+
 ## Data Storage
 
 MpdIOS stores the following data **locally on your device only**:
